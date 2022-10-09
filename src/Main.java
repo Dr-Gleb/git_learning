@@ -4,5 +4,6 @@ public class Main {
         Student student1 = new Student("Misha", 5.0);
 
         System.out.println(student);
+        System.out.println(student);
     }
 }
